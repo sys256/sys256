@@ -1,7 +1,3 @@
----
-title: Welcome to sys256
----
-
 <img alt="Banner" src="https://github.com/sys256/sys256/blob/main/banner.png?raw=true" width="100%"/>
 
 <!--
