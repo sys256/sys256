@@ -6,10 +6,10 @@ appears on the GitHub profile (user front page).
 <img alt="Banner" src="https://github.com/sys256/sys256/blob/main/banner.png?raw=true" width="100%"/>
 
 <p>
-    ✨ <a target="_blank" href="https://vuejs.org/"><b>Vue</b></a>
-    ✨ <a target="_blank" href="https://vitejs.dev/">Vite</a>
-    ✨ <a target="_blank" href="https://vuetifyjs.com/">Vuetify</a>
-    ✨ <a target="_blank" href="https://threejs.org/">Three.js</a>
+    ✨ <a href="https://vuejs.org/"><b>Vue</b></a>
+    ✨ <a href="https://vitejs.dev/"><b>Vite</b></a>
+    ✨ <a href="https://vuetifyjs.com/"><b>Vuetify</b></a>
+    ✨ <a href="https://threejs.org/"><b>Three.js</b></a>
 </p>
 
 <!--
