@@ -1,5 +1,7 @@
 # Welcome to sys256
 
+<img alt="Banner" src="https://github.com/sys256/sys256/blob/main/banner.png?raw=true" width="100%"/>
+
 <!--
 **sys256/sys256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
