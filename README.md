@@ -1,15 +1,18 @@
+<!--
+sys256/sys256 is a special repository because its `README.md` (this file)
+appears on the GitHub profile (user front page).
+-->
+
 <img alt="Banner" src="https://github.com/sys256/sys256/blob/main/banner.png?raw=true" width="100%"/>
 
 <p>
-    <a href="">Vue</a>
-    <a href="">Vite</a>
-    <a href="">Vuetify</a>
-    <a href="">Three.js</a>
+    ✨ <a href="https://vuejs.org/">Vue</a>
+    ✨ <a href="https://vitejs.dev/">Vite</a>
+    ✨ <a href="https://vuetifyjs.com/">Vuetify</a>
+    ✨ <a href="https://threejs.org/">Three.js</a>
 </p>
 
 <!--
-**sys256/sys256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
