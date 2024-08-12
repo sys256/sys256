@@ -1,4 +1,4 @@
-# Welcome to sys256!
+# Welcome to sys256
 
 <!--
 **sys256/sys256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
